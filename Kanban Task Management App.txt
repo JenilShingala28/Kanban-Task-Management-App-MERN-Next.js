@@ -1,0 +1,13 @@
+Kanban Task Management App
+
+admin == jenil@gmail.com
+	 jenil123
+
+user == ronak@gmail.com
+        ronak123 
+ 	
+	fenil@gmail.com
+	fenil123
+	.
+	.
+	.

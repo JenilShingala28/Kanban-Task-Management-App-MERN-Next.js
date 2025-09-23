@@ -1,0 +1,253 @@
+[{
+  "_id": {
+    "$oid": "68bdb969c4eed3bd32f00c01"
+  },
+  "first_name": "ridham",
+  "last_name": "kanani",
+  "mobile": "9409738344",
+  "email": "ridham@gmail.com",
+  "password": "$2b$10$eRXQR88TDst6i1e8EkW4qO6imk/SnZYWrsRU4856HbZERIChtGZD2",
+  "role": {
+    "$oid": "68bad059c7f5f7e83cc8a012"
+  },
+  "profile_picture": "/uploads/users/profile_picture-1756988482770-475669544.png",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4YmRiOTY5YzRlZWQzYmQzMmYwMGMwMSIsInJvbGUiOiJVc2VyIiwiaWF0IjoxNzU3NTkxNzI5LCJleHAiOjE3NTc2NzgxMjl9._ETvcCiM0CnUsny9ImYWQp7n9nZyKths40K2BC2bMQA",
+  "is_deleted": false,
+  "createdAt": {
+    "$date": "2025-09-07T16:57:13.859Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T11:55:29.218Z"
+  },
+  "__v": 0,
+  "token_expires_at": {
+    "$date": "2025-09-12T11:55:29.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68bdbf9d47a5f1d49efcfcd6"
+  },
+  "first_name": "kenil",
+  "last_name": "kanani",
+  "mobile": "9409738345",
+  "email": "kenil@gmail.com",
+  "password": "$2b$10$voQ555x8M.YuThw1F3ud0.ZKJzz1BuAiVGMv9O7EpwahjgKBbhEAS",
+  "role": {
+    "$oid": "68bad059c7f5f7e83cc8a012"
+  },
+  "profile_picture": "/uploads/users/profile_picture-1756988879307-672983320.png",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4YmRiZjlkNDdhNWYxZDQ5ZWZjZmNkNiIsInJvbGUiOiJVc2VyIiwiaWF0IjoxNzU3NDc4NDczLCJleHAiOjE3NTc1NjQ4NzN9.XFClkbhUwjd7hVu53T-0bvNWvrBUZ5yBgAWQ4b5Q8ds",
+  "is_deleted": false,
+  "createdAt": {
+    "$date": "2025-09-07T17:23:41.329Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-10T04:27:53.489Z"
+  },
+  "__v": 0,
+  "token_expires_at": {
+    "$date": "2025-09-11T04:27:53.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68bdc15a51cbb605843e3add"
+  },
+  "first_name": "Fenil",
+  "last_name": "Laheri",
+  "mobile": "9409738345",
+  "email": "fenil@gmail.com",
+  "password": "$2b$10$5m/5jGimVM.AbQr5k7InhObHH3EtTfrrz87el9k45fEWc7G26PklW",
+  "role": {
+    "$oid": "68bad059c7f5f7e83cc8a012"
+  },
+  "profile_picture": "/uploads/users/profile_picture-1758101047234-95858996.png",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4YmRjMTVhNTFjYmI2MDU4NDNlM2FkZCIsInJvbGUiOiJVc2VyIiwiaWF0IjoxNzU4MDkwMjY2LCJleHAiOjE3NTgxNzY2NjZ9.GFDF5MCrwiWQHHQwfIyyniRqAraBRDDlQzK_yFevURs",
+  "is_deleted": false,
+  "createdAt": {
+    "$date": "2025-09-07T17:31:06.772Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-17T09:24:07.271Z"
+  },
+  "__v": 0,
+  "token_expires_at": {
+    "$date": "2025-09-18T06:24:26.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68bdc266e83b042d0a2ad3b4"
+  },
+  "first_name": "Jenil",
+  "last_name": "Shingala",
+  "mobile": "9409738336",
+  "email": "jenil@gmail.com",
+  "password": "$2b$10$Q.4QhsUxLjOHu/z6KH1QA.s5OHF/kpMK7tl8h3nflA2sPsmtZ.Znm",
+  "role": {
+    "$oid": "68bad067c7f5f7e83cc8a018"
+  },
+  "profile_picture": "/uploads/users/profile_picture-1758100861543-802329230.jpeg",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4YmRjMjY2ZTgzYjA0MmQwYTJhZDNiNCIsInJvbGUiOiJBZG1pbiIsImlhdCI6MTc1ODA5MTc3NCwiZXhwIjoxNzU4MTc4MTc0fQ.TnBSkZKlyZ87lkFVWsuAvyc_gUqZeQ0PBWwSohyZ4MI",
+  "is_deleted": false,
+  "createdAt": {
+    "$date": "2025-09-07T17:35:34.656Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-17T10:28:27.847Z"
+  },
+  "__v": 0,
+  "token_expires_at": {
+    "$date": "2025-09-18T06:49:34.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68bdc3f5b51a439655ee0e6a"
+  },
+  "first_name": "ronak",
+  "last_name": "dave",
+  "mobile": "9409738338",
+  "email": "ronak@gmail.com",
+  "password": "$2b$10$9MruYLkdOI3509M13w7HY.6LD1S5XZcqz1mDu.1tY8hbZOvMb6i2G",
+  "role": {
+    "$oid": "68bad059c7f5f7e83cc8a012"
+  },
+  "profile_picture": "/uploads/users/profile_picture-1757047805291-334986049.png",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4YmRjM2Y1YjUxYTQzOTY1NWVlMGU2YSIsImlhdCI6MTc1NzMxMDI2MCwiZXhwIjoxNzU3MzEzODYwfQ.xQB6oLoXVa6gsyXEMKuOzpa37OUuEOHyvK454NclhpY",
+  "is_deleted": true,
+  "createdAt": {
+    "$date": "2025-09-07T17:42:13.710Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-08T05:51:01.725Z"
+  },
+  "__v": 0,
+  "token_expires_at": {
+    "$date": "2025-09-08T06:44:20.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68be62e41140487a0a1b380a"
+  },
+  "first_name": "jay",
+  "last_name": "devani",
+  "mobile": "9409738312",
+  "email": "jay@gmail.com",
+  "password": "$2b$10$ff48uS3raR3R9EcHmxqiMOAOgshUxD6zEe2jiihnmmAlhQQI1KwIm",
+  "role": {
+    "$oid": "68bad059c7f5f7e83cc8a012"
+  },
+  "profile_picture": "/uploads/users/profile_picture-1757048115848-12580237.png",
+  "token": null,
+  "is_deleted": false,
+  "createdAt": {
+    "$date": "2025-09-08T05:00:20.255Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-08T05:00:20.255Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68be645923ad97d80ec41b2c"
+  },
+  "first_name": "sahil",
+  "last_name": "kanani",
+  "mobile": "9409738112",
+  "email": "sahil@gmail.com",
+  "password": "$2b$10$.B8DPNcVL2WtM/TxrvBv1uHnSDjTwBEknAI6dHH./QMjqwHYIEAAC",
+  "role": {
+    "$oid": "68bad059c7f5f7e83cc8a012"
+  },
+  "profile_picture": "/uploads/users/profile_picture-1757264193414-758152304.png",
+  "token": null,
+  "is_deleted": false,
+  "createdAt": {
+    "$date": "2025-09-08T05:06:33.601Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-08T05:06:33.601Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68bea630b9a579d8b5bafabc"
+  },
+  "first_name": "keval",
+  "last_name": "kachadiya",
+  "mobile": "9409738330",
+  "email": "keval@gmail.com",
+  "password": "$2b$10$DRqkj023uEHdRo3QqExefeuTCMP23wMzJr3w1srTPXCNWZ2yP96lq",
+  "role": {
+    "$oid": "68bad059c7f5f7e83cc8a012"
+  },
+  "profile_picture": null,
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4YmVhNjMwYjlhNTc5ZDhiNWJhZmFiYyIsInJvbGUiOiJVc2VyIiwiaWF0IjoxNzU3NDc4MzQ5LCJleHAiOjE3NTc1NjQ3NDl9.KJR9OZpg_4M6Y4ABQqe_FfjPHdsV3tRG3gZLxMM1vTw",
+  "is_deleted": false,
+  "createdAt": {
+    "$date": "2025-09-08T09:47:28.607Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-10T04:25:49.289Z"
+  },
+  "__v": 0,
+  "token_expires_at": {
+    "$date": "2025-09-11T04:25:49.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c94ccae9ac8873c68709dd"
+  },
+  "first_name": "abcd",
+  "last_name": "abcd",
+  "email": "abc@gmail.com",
+  "password": "$2b$10$pkUgwLySgc3g1SqEaiSyYORDlpEqzp3lcuXEafjD1uwp5n3jqN9Pq",
+  "role": {
+    "$oid": "68bad059c7f5f7e83cc8a012"
+  },
+  "profile_picture": "/uploads/users/profile_picture-1758100989483-374441829.png",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4Yzk0Y2NhZTlhYzg4NzNjNjg3MDlkZCIsInJvbGUiOiJVc2VyIiwiaWF0IjoxNzU4MDIyODY4LCJleHAiOjE3NTgxMDkyNjh9.8dGmxUry3eNzjLB1XZMqhXqHv377iIZMHEcZ7YWnOBs",
+  "is_deleted": false,
+  "createdAt": {
+    "$date": "2025-09-16T11:40:58.338Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-17T09:23:09.540Z"
+  },
+  "__v": 0,
+  "token_expires_at": {
+    "$date": "2025-09-17T11:41:08.000Z"
+  },
+  "mobile": "9409738340"
+},
+{
+  "_id": {
+    "$oid": "68ca852a2185423340d97ec8"
+  },
+  "first_name": "deep",
+  "last_name": "pa",
+  "email": "deep@gmail.com",
+  "password": "$2b$10$CtSsH2x3BDPg5itxgtfuReG7bSjs/nSjilIhSenXI2HF9XbUioNkm",
+  "role": {
+    "$oid": "68bad059c7f5f7e83cc8a012"
+  },
+  "profile_picture": "/uploads/users/profile_picture-1758102826279-832193443.jpeg",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4Y2E4NTJhMjE4NTQyMzM0MGQ5N2VjOCIsInJvbGUiOiJVc2VyIiwiaWF0IjoxNzU4MTAyODQzLCJleHAiOjE3NTgxODkyNDN9.dw-aGlyMzpxu0AZ8oSWQnFcHuKmvoW3tOFbOCDWMIWg",
+  "is_deleted": false,
+  "createdAt": {
+    "$date": "2025-09-17T09:53:46.524Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-17T09:54:03.439Z"
+  },
+  "__v": 0,
+  "token_expires_at": {
+    "$date": "2025-09-18T09:54:03.000Z"
+  }
+}]

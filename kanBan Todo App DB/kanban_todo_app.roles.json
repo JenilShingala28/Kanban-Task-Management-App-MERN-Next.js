@@ -1,0 +1,42 @@
+[{
+  "_id": {
+    "$oid": "68bad059c7f5f7e83cc8a012"
+  },
+  "name": "User",
+  "is_deleted": false,
+  "createdAt": {
+    "$date": "2025-09-05T11:58:17.198Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-05T11:58:17.198Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68bad067c7f5f7e83cc8a018"
+  },
+  "name": "Admin",
+  "is_deleted": false,
+  "createdAt": {
+    "$date": "2025-09-05T11:58:31.135Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-05T11:58:31.135Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68bad09fc7f5f7e83cc8a01c"
+  },
+  "name": "Owner",
+  "is_deleted": true,
+  "createdAt": {
+    "$date": "2025-09-05T11:59:27.627Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-05T12:03:43.252Z"
+  },
+  "__v": 0
+}]

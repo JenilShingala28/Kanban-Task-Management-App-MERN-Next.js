@@ -1,0 +1,425 @@
+[{
+  "_id": {
+    "$oid": "68bab6faae9bde51338b9b9d"
+  },
+  "title": "Finish Kanban Backend",
+  "description": "Implement task controllers and models",
+  "status": {
+    "$oid": "68c7a8df3ecf704cfee6dac5"
+  },
+  "assignee": {
+    "$oid": "68bdb969c4eed3bd32f00c01"
+  },
+  "dueDate": {
+    "$date": "2025-09-15T00:00:00.000Z"
+  },
+  "priority": "medium",
+  "is_deleted": false,
+  "createdAt": {
+    "$date": "2025-09-05T10:10:02.464Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-17T09:21:39.246Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68babf30ff669c89f3f9c3ec"
+  },
+  "title": "Basics of Node.js",
+  "description": "Implement task schema, controllers and models",
+  "status": {
+    "$oid": "68c7a6853ecf704cfee6d99f"
+  },
+  "assignee": {
+    "$oid": "68bdbf9d47a5f1d49efcfcd6"
+  },
+  "dueDate": {
+    "$date": "2025-09-17T00:00:00.000Z"
+  },
+  "priority": "low",
+  "is_deleted": false,
+  "createdAt": {
+    "$date": "2025-09-05T10:45:04.228Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-17T09:00:39.119Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68babfc3641ffb9304c6e9ae"
+  },
+  "title": "Basics of Express.js",
+  "description": "Implement task schema,controllers and models",
+  "status": {
+    "$oid": "68c7a8df3ecf704cfee6dac5"
+  },
+  "assignee": {
+    "$oid": "68bdc15a51cbb605843e3add"
+  },
+  "dueDate": {
+    "$date": "2025-09-15T00:00:00.000Z"
+  },
+  "priority": "high",
+  "is_deleted": false,
+  "createdAt": {
+    "$date": "2025-09-05T10:47:31.398Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-17T11:46:59.136Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68bac046641ffb9304c6e9c1"
+  },
+  "title": "Finish Kanban ASAP",
+  "description": "Need to complete before Monday",
+  "status": {
+    "$oid": "68c7a8df3ecf704cfee6dac5"
+  },
+  "assignee": {
+    "$oid": "68bdc266e83b042d0a2ad3b4"
+  },
+  "dueDate": {
+    "$date": "2025-09-20T00:00:00.000Z"
+  },
+  "priority": "low",
+  "is_deleted": false,
+  "createdAt": {
+    "$date": "2025-09-05T10:49:42.672Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-17T07:54:32.973Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68bac188641ffb9304c6e9d0"
+  },
+  "title": "Basics of express.js",
+  "description": "Implement task schema,controllers and models",
+  "status": {
+    "$oid": "68c7a6853ecf704cfee6d99f"
+  },
+  "assignee": {
+    "$oid": "68bdc266e83b042d0a2ad3b4"
+  },
+  "dueDate": {
+    "$date": "2025-09-15T00:00:00.000Z"
+  },
+  "priority": "high",
+  "is_deleted": true,
+  "createdAt": {
+    "$date": "2025-09-05T10:55:04.592Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-05T10:56:33.143Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68bac676eb684179a01532ab"
+  },
+  "title": "Basics of express.js",
+  "description": "Implement task schema,controllers and models",
+  "status": {
+    "$oid": "68c7a9ad3ecf704cfee6db04"
+  },
+  "assignee": {
+    "$oid": "68bdc3f5b51a439655ee0e6a"
+  },
+  "dueDate": {
+    "$date": "2025-09-15T00:00:00.000Z"
+  },
+  "priority": "high",
+  "is_deleted": false,
+  "createdAt": {
+    "$date": "2025-09-05T11:16:06.126Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-12T12:06:44.262Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68bdcc81942e34a2f352e749"
+  },
+  "title": "Basics of next.js",
+  "description": "Learn basic next.js",
+  "status": {
+    "$oid": "68c7a6853ecf704cfee6d99f"
+  },
+  "assignee": {
+    "$oid": "68bdbf9d47a5f1d49efcfcd6"
+  },
+  "dueDate": {
+    "$date": "2025-09-15T00:00:00.000Z"
+  },
+  "priority": "high",
+  "is_deleted": false,
+  "createdAt": {
+    "$date": "2025-09-07T18:18:41.629Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-12T12:11:36.327Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68bdccae942e34a2f352e751"
+  },
+  "title": "create next.js app",
+  "description": "Need to complete before Monday",
+  "status": {
+    "$oid": "68c7a81a3ecf704cfee6da64"
+  },
+  "assignee": {
+    "$oid": "68bdbf9d47a5f1d49efcfcd6"
+  },
+  "dueDate": {
+    "$date": "2025-09-15T00:00:00.000Z"
+  },
+  "priority": "high",
+  "is_deleted": false,
+  "createdAt": {
+    "$date": "2025-09-07T18:19:26.792Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-16T06:10:08.831Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68bdcce7942e34a2f352e759"
+  },
+  "title": "Basics of next.js",
+  "description": "Implement task dashbord",
+  "status": {
+    "$oid": "68c7a9ad3ecf704cfee6db04"
+  },
+  "assignee": {
+    "$oid": "68bdb969c4eed3bd32f00c01"
+  },
+  "dueDate": {
+    "$date": "2025-09-15T00:00:00.000Z"
+  },
+  "priority": "high",
+  "is_deleted": false,
+  "createdAt": {
+    "$date": "2025-09-07T18:20:23.429Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-10T07:37:00.243Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c000e6456c0f429a1b3156"
+  },
+  "title": "Advance mongoose",
+  "description": "Relationships and Population",
+  "status": {
+    "$oid": "68c7a8df3ecf704cfee6dac5"
+  },
+  "assignee": {
+    "$oid": "68be62e41140487a0a1b380a"
+  },
+  "dueDate": {
+    "$date": "2025-09-11T18:30:00.000Z"
+  },
+  "priority": "medium",
+  "is_deleted": false,
+  "createdAt": {
+    "$date": "2025-09-09T10:26:46.698Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-17T09:20:18.879Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c11d577f340654550fd511"
+  },
+  "title": "Express.js",
+  "description": "Introduction to Express.js, Setting up Express Server",
+  "status": {
+    "$oid": "68c7a7e73ecf704cfee6da33"
+  },
+  "assignee": {
+    "$oid": "68bdbf9d47a5f1d49efcfcd6"
+  },
+  "dueDate": {
+    "$date": "2025-09-11T18:30:00.000Z"
+  },
+  "priority": "high",
+  "is_deleted": false,
+  "createdAt": {
+    "$date": "2025-09-10T06:40:23.375Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T06:23:32.520Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c12ae27f340654550fd789"
+  },
+  "title": "Material UI ",
+  "description": "learn All Mui Components",
+  "status": {
+    "$oid": "68c7a81a3ecf704cfee6da64"
+  },
+  "assignee": {
+    "$oid": "68bdc15a51cbb605843e3add"
+  },
+  "dueDate": {
+    "$date": "2025-09-17T18:30:00.000Z"
+  },
+  "priority": "medium",
+  "is_deleted": false,
+  "createdAt": {
+    "$date": "2025-09-10T07:38:10.403Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-17T11:46:39.867Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c147cfb321e2b337ff9add"
+  },
+  "title": "abcz",
+  "description": "byy",
+  "status": {
+    "$oid": "68c7a6853ecf704cfee6d99f"
+  },
+  "assignee": {
+    "$oid": "68bdc15a51cbb605843e3add"
+  },
+  "dueDate": {
+    "$date": "2025-09-09T18:30:00.000Z"
+  },
+  "priority": "high",
+  "is_deleted": true,
+  "createdAt": {
+    "$date": "2025-09-10T09:41:35.133Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-10T09:44:31.691Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ca570a705986d764ec7f72"
+  },
+  "title": "wxyz",
+  "description": "vwxyz",
+  "status": {
+    "$oid": "68c7a6853ecf704cfee6d99f"
+  },
+  "assignee": {
+    "$oid": "68bdc15a51cbb605843e3add"
+  },
+  "dueDate": {
+    "$date": "2026-02-11T18:30:00.000Z"
+  },
+  "priority": "medium",
+  "is_deleted": false,
+  "createdAt": {
+    "$date": "2025-09-17T06:36:58.698Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-17T11:46:55.868Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ca85742185423340d97f1f"
+  },
+  "title": "node.js",
+  "description": "Learn basic node.js",
+  "status": {
+    "$oid": "68c7a81a3ecf704cfee6da64"
+  },
+  "assignee": {
+    "$oid": "68ca852a2185423340d97ec8"
+  },
+  "dueDate": {
+    "$date": "2025-09-17T18:30:00.000Z"
+  },
+  "priority": "medium",
+  "is_deleted": true,
+  "createdAt": {
+    "$date": "2025-09-17T09:55:00.440Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-17T09:55:51.592Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ca87952185423340d97fcb"
+  },
+  "title": "node.js",
+  "description": "Learn basic node.js",
+  "status": {
+    "$oid": "68c7a81a3ecf704cfee6da64"
+  },
+  "assignee": {
+    "$oid": "68ca852a2185423340d97ec8"
+  },
+  "dueDate": {
+    "$date": "2025-09-19T18:30:00.000Z"
+  },
+  "priority": "medium",
+  "is_deleted": false,
+  "createdAt": {
+    "$date": "2025-09-17T10:04:05.378Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-17T10:05:15.882Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ca884a2185423340d980b9"
+  },
+  "title": "abcde",
+  "description": "abcde",
+  "status": {
+    "$oid": "68c7a6853ecf704cfee6d99f"
+  },
+  "assignee": {
+    "$oid": "68ca852a2185423340d97ec8"
+  },
+  "dueDate": {
+    "$date": "2025-09-18T18:30:00.000Z"
+  },
+  "priority": "medium",
+  "is_deleted": false,
+  "createdAt": {
+    "$date": "2025-09-17T10:07:06.784Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-17T10:36:15.638Z"
+  },
+  "__v": 0
+}]
