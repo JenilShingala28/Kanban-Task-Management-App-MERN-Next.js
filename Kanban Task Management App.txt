@@ -3,11 +3,11 @@ Kanban Task Management App
 admin == jenil@gmail.com
 	 jenil123
 
-user == ronak@gmail.com
-        ronak123 
+user == kenil@gmail.com
+        kenil123 
  	
-	fenil@gmail.com
-	fenil123
+	    fenil@gmail.com
+	    fenil123
 	.
 	.
 	.
